@@ -1,8 +1,5 @@
 # Your code goes here!
 class Dog
-  def 
-end
-
-fido=Dog.new
-fido.name= ("Fido")
-fido.name
+  fido=Dog.new
+def fido.name= ("Fido")
+  @fido.name
