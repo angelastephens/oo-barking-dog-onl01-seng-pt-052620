@@ -1,6 +1,7 @@
 # Your code goes here!
 class Dog
-  fido=Dog.new
+  do fido=Dog.new
+  end
   do fido.name= "Fido"
   fido.name
   fido.bark
