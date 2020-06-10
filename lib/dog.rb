@@ -1,10 +1,11 @@
 # Your code goes here!
 class Dog
-  do fido=Dog.new
-  end
-  do fido.name= "Fido"
-  fido.name
-  end
-  fido.bark
-    woof!
+  
 end
+
+fido=Dog.new
+fido.name= ("Fido")
+  fido.name
+  do fido.bark
+    puts woof!
+  end
