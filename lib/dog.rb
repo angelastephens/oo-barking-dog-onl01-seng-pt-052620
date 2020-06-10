@@ -6,6 +6,6 @@ end
 fido=Dog.new
 fido.name= ("Fido")
   fido.name
-  do fido.bark
+  fido.bark
     puts woof!
   end
