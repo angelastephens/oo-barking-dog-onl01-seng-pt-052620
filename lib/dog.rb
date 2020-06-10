@@ -4,6 +4,7 @@ class Dog
   end
   do fido.name= "Fido"
   fido.name
+  end
   fido.bark
     woof!
 end
